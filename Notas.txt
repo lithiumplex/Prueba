@@ -1,0 +1,10 @@
+¿Que es git?
+¿Comó funciona el comando add?
+¿Comó funciona el comando commit?
+¿Que hace el comando status?
+¿Que hace el comando log?
+¿Que hace el comando git show?
+¿Como puedo crear una nueva rama?
+¿Para que sirve el comando branch?
+¿Que hace el comando git check out?
+
