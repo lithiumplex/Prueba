@@ -1,0 +1,16 @@
+git init
+git add
+git commit
+
+git status
+git show
+git branch
+git log
+
+git diff
+git config
+********** 
+git fetch
+git pull
+git push
+git remote
